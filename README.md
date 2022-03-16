@@ -16,7 +16,7 @@ git clone https://github.com/RemiAndre44/drupal.git
 cd drupal
 composer install
 mkdir .env
-cp web/sites/example.settings.local.php web/sites/default/settings.local.php
+cp example.settings.local.php web/sites/default/settings.local.php
 ```
 
 ### Installation du site
