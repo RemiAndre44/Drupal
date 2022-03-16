@@ -1,0 +1,28 @@
+# Ignore PhpStorm files.
+.idea
+
+# Files VSCODE
+.vscode
+
+# Ignore local environment variables file.
+.env
+
+# Ignore composer vendor files.
+vendor
+
+# Ignore drupal core & modules contrib
+web/.htaccess
+web/autoload.php
+web/index.php
+web/robots.txt
+web/core
+web/modules/contrib
+web/profiles/contrib
+web/themes/contrib
+web/libraries
+web/sites/example.sites.php
+web/sites/default/default.settings.php
+web/sites/default/default.services.yml
+web/sites/default/settings.local.php
+web/sites/default/files
+/web/
