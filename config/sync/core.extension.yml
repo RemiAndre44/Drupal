@@ -12,6 +12,7 @@ module:
   comment: 0
   config: 0
   contact: 0
+  content_fixtures: 0
   contextual: 0
   datetime: 0
   dblog: 0
@@ -50,4 +51,7 @@ theme:
   seven: 0
   claro: 0
   gin: 0
+  stable: 0
+  classy: 0
+  showcase_lite: 0
 profile: standard

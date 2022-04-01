@@ -4,7 +4,7 @@ langcode: en
 uuid: 43ea4d55-6bfa-4204-b24d-ad4a1d3617da
 name: Site-Test
 mail: admin@example.com
-slogan: 'Tester n''est pas douter'
+slogan: 'Tester c''est douter'
 page:
   403: ''
   404: ''
