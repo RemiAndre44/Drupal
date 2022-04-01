@@ -1,10 +1,10 @@
 _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
-uuid: c46a0223-fc8d-4399-9d0f-117ecdc4f5d9
-name: Site-Install
+uuid: 43ea4d55-6bfa-4204-b24d-ad4a1d3617da
+name: Site-Test
 mail: admin@example.com
-slogan: ''
+slogan: 'Tester n''est pas douter'
 page:
   403: ''
   404: ''
